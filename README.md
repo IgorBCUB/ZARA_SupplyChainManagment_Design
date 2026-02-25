@@ -1,1 +1,2 @@
+# ZARA_SupplyChainManagment_Design
 In-depth analysis of Zara's fast-fashion supply chain, followed by the design of a prototype system to optimize inventory tracking, demand forecasting, and just-in-time logistics. Detailed workflow modeling and process optimization recommendations to enhance scalability and operational efficiency. Team project translating business strategy into actionable technical systems design.
